@@ -11,7 +11,8 @@ Foodie is a web application that helps you find the nutritional values and calor
 
 ## Screenshot
 
-![image](https://github.com/moeongit/CalorieApp/assets/111477874/b2ac82d0-35cc-4905-8366-2b00ff81e6e1)
+![image](https://github.com/moeongit/CalorieApp/assets/111477874/f55c2bc8-4530-42e8-945d-a597c244484e)
+
 
 
 ## Installation
