@@ -100,8 +100,3 @@ Foodie is a web application that helps you find the nutritional values and calor
 4. Commit your changes (`git commit -am 'Add some foo'`).
 5. Push to the branch (`git push origin feature-foo`).
 6. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
