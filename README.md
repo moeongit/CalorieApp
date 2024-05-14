@@ -19,7 +19,7 @@ Foodie is a web application that helps you find the nutritional values and calor
 
 ### Prerequisites
 
-- Python 3.x
+- Python
 - Django
 - PostgreSQL (or another preferred database)
 - Node.js and npm (if you use React or other Node.js tools)
